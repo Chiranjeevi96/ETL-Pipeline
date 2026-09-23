@@ -1,0 +1,16 @@
+Region,Month,Sales Rep,Units Sold,Revenue
+Bangalore,Jan,Ravi,120,45000
+ bangalore ,Jan,Ravi,120,45000
+Chennai,Jan,Anita,,38000
+Chennai,Feb,Anita,95,
+Mumbai,Jan,,110,
+Mumbai,Jan,Suresh,110,52000
+mumbai,Feb,Suresh,,49000
+Delhi,Jan,Priya,130,61000
+Delhi,Jan,Priya,130,61000
+Delhi,Feb,Priya,140,N/A
+Bangalore,Feb,Ravi,125,47000
+Chennai,Mar,Anita,100,40000
+Mumbai,Mar,Suresh,115,54000
+Delhi,Mar,Priya,N/A,63000
+Kolkata,Jan,Deepak,90,35000
